@@ -5,6 +5,7 @@ categories:
 - tea
 tags:
 - tea
+layout: default
 ---
 
 # New Tangerine Mint Tea
