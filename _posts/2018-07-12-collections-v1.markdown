@@ -3,6 +3,8 @@ title: Collections v1
 date: 2018-07-12 19:09:00 -07:00
 categories:
 - music
+tags:
+- music
 layout: tag
 ---
 
