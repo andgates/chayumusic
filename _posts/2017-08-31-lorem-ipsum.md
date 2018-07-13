@@ -7,6 +7,7 @@ tags:
 - tag3
 - tag4
 layout: default
+draft:true
 ---
 
 ## Lorem Ipsum
