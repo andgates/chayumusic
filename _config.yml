@@ -21,10 +21,10 @@ defaults:
   values:
     layout: page
 permalink: "/:year:month:day/:title"
-url: 
+url: https://andgates.github.io/chayumusic/
 baseurl: "/project"
-name: Your Site Name
-description: Your description here
+name: Sip Tea Live Free
+description: Chayu
 google_verification: 
 include:
 - ".htaccess"
