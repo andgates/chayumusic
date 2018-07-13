@@ -21,7 +21,7 @@ defaults:
   values:
     layout: page
 permalink: "/:year:month:day/:title"
-url: siptealivefree.com
+url: 
 baseurl: "/project"
 name: Your Site Name
 description: Your description here
