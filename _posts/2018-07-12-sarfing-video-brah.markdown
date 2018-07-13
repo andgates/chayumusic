@@ -5,6 +5,7 @@ categories:
 - video
 tags:
 - video
+layout: default
 ---
 
 # Sarfing Video Brah
