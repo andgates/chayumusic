@@ -1,6 +1,10 @@
 ---
 title: smokefog.mp4
 date: 2018-07-12 21:36:00 -07:00
+categories:
+- video
+tags:
+- video
 ---
 
 contents of smokefog.mp4:
