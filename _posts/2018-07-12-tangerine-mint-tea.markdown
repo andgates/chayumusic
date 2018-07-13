@@ -10,6 +10,6 @@ layout: default
 
 # New Tangerine Mint Tea
 
-Contact me for orders :)
+Contact me for orders
 
 ![Gates-012.jpg](/uploads/Gates-012.jpg)
