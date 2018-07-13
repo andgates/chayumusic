@@ -1,5 +1,6 @@
 ---
 title: 2017 08 31 Lorem Ipsum
+date: 2018-07-12 19:08:37.141000000 -07:00
 ---
 
 ## Lorem Ipsum
