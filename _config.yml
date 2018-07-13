@@ -1,5 +1,5 @@
 ---
-title: Chayu Music
+title: Sip Tea Live Free
 timezone: America/Los_Angeles
 collections:
   posts:
@@ -20,4 +20,22 @@ defaults:
     type: pages
   values:
     layout: page
-permalink: pretty
+permalink: "/:year:month:day/:title"
+url: siptealivefree.com
+baseurl: "/project"
+name: Your Site Name
+description: Your description here
+google_verification: 
+include:
+- ".htaccess"
+exclude:
+- README.md
+- LICENSE
+sass:
+  style: compressed
+  sass_dir: _sass
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable: true
