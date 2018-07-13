@@ -1,12 +1,5 @@
 ---
-title: Lorem Ipsum
-date: 2017-08-31 00:00:00 -07:00
-tags:
-- tag1
-- tag2
-- tag3
-- tag4
-layout: default
+title: 2017 08 31 Lorem Ipsum
 ---
 
 ## Lorem Ipsum
