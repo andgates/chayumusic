@@ -1,5 +1,5 @@
 ---
-title: Tangerine Mint Tea
+title: tangerine_mint_tea.recipe
 date: 2018-07-12 19:24:00 -07:00
 categories:
 - tea
