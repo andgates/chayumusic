@@ -3,7 +3,7 @@ title: Collections v1
 date: 2018-07-12 19:09:00 -07:00
 categories:
 - music
-layout: default
+layout: tag
 ---
 
 Checkout Collections v1 on BandCamp now!
