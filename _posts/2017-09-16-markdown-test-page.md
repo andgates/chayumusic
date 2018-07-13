@@ -1,7 +1,10 @@
 ---
+title: Markdown Test Page
+date: 2017-09-16 00:00:00 -07:00
+tags:
+- tag1
+- tag3
 layout: default
-title: "Markdown Test Page"
-tags: tag1 tag3
 ---
 
 ## Source: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)

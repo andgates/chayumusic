@@ -20,32 +20,22 @@ defaults:
     type: pages
   values:
     layout: page
-permalink: pretty
-
-
-
-permalink: /:year:month:day/:title
+permalink: "/:year:month:day/:title"
 url: siptealivefree.com
-baseurl: /project
-
-# variables
+baseurl: "/project"
 name: Your Site Name
 description: Your description here
-google_verification: null
-
-
-# File management
-include: [".htaccess"]
-exclude: ["README.md", "LICENSE"]
-
-# Sass
+google_verification: 
+include:
+- ".htaccess"
+exclude:
+- README.md
+- LICENSE
 sass:
   style: :compressed
   sass_dir: _sass
-
-# Markdown
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter_opts:
-    disable : true
+    disable: true
