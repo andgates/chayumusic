@@ -5,7 +5,7 @@ categories:
 - music
 tags:
 - music
-layout: tag
+layout: default
 ---
 
 Checkout Collections v1 on BandCamp now!
