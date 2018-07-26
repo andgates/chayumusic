@@ -2,9 +2,9 @@
 title: clouds.mp4
 date: 2018-07-26 13:22:00 -07:00
 categories:
-- music
+- video
 tags:
-- music
+- video
 layout: default
 ---
 
