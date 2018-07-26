@@ -1,6 +1,5 @@
 ---
 title: me
-published: false
 layout: me
 ---
 
