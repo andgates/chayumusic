@@ -39,3 +39,5 @@ kramdown:
   input: GFM
   syntax_highlighter_opts:
     disable: true
+
+theme: jekyll-theme-minimal
